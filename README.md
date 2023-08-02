@@ -1,4 +1,4 @@
-***Georgia Tech ECE 2036 Labs (Spring 2023 Semester)*** <br> 
+***Georgia Tech ECE 2036: Software Design (Spring 2023) *** <br> 
 
 Lab0: Getting Started (intro lab) <br> 
 Lab1: Exploring Numerical Error <br> 
